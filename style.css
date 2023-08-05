@@ -94,3 +94,8 @@ body {
     font-size: 28px;
     margin-top: -6px;
 }
+@media (max-width:450px) {
+    .search>button {
+        display: none;
+    }
+}
